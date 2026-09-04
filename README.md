@@ -193,41 +193,55 @@ food_processing_feature_engineered.csv
 ---
 ## Notebook Screenshots
 
-### 1. Data Preprocessing
+The screenshots below show the key stages of the Week 3 Feature Engineering workflow.
 
-[View full-size screenshot](screenshots/01_preprocessing.png)
+### 1. Dataset Overview
 
-![Data Preprocessing](screenshots/01_preprocessing.png)
+[Open full-size screenshot](screenshots/01_dataset_overview.png)
 
-### 2. Data Ready for Feature Engineering
+![Dataset Overview](screenshots/01_dataset_overview.png)
 
-[View full-size screenshot](screenshots/02_data_ready.png)
+### 2. Data Preprocessing
 
-![Data Ready for Feature Engineering](screenshots/02_data_ready.png)
+[Open full-size screenshot](screenshots/02_data_preprocessing.png)
 
-### 3. Engineered Features
+![Data Preprocessing](screenshots/02_data_preprocessing.png)
 
-[View full-size screenshot](screenshots/03_engineered_features.png)
+### 3. Data Preparation
 
-![Engineered Features](screenshots/03_engineered_features.png)
+[Open full-size screenshot](screenshots/03_data_preparation.png)
 
-### 4. Feature Evaluation
+![Data Preparation](screenshots/03_data_preparation.png)
 
-[View full-size screenshot](screenshots/04_feature_evaluation.png)
+### 4. Feature Engineering – Part 1
 
-![Feature Evaluation](screenshots/04_feature_evaluation.png)
+[Open full-size screenshot](screenshots/04_feature_engineering_part1.png)
 
-### 5. Correlation Analysis
+![Feature Engineering Part 1](screenshots/04_feature_engineering_part1.png)
 
-[View full-size screenshot](screenshots/05_correlation.png)
+### 5. Feature Engineering – Part 2
 
-![Correlation Analysis](screenshots/05_correlation.png)
+[Open full-size screenshot](screenshots/05_feature_engineering_part2.png)
 
-### 6. Final Verification
+![Feature Engineering Part 2](screenshots/05_feature_engineering_part2.png)
 
-[View full-size screenshot](screenshots/06_final_verification.png)
+### 6. Feature Evaluation
 
-![Final Verification](screenshots/06_final_verification.png)
+[Open full-size screenshot](screenshots/06_feature_evaluation.png)
+
+![Feature Evaluation](screenshots/06_feature_evaluation.png)
+
+### 7. Validation
+
+[Open full-size screenshot](screenshots/07_validation.png)
+
+![Validation](screenshots/07_validation.png)
+
+### 8. Final Results
+
+[Open full-size screenshot](screenshots/08_final_results.png)
+
+![Final Results](screenshots/08_final_results.png)
 
 ---
 
