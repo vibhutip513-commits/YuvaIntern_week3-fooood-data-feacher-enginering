@@ -191,42 +191,43 @@ food_processing_feature_engineered.csv
 ```
 
 ---
+## Notebook Screenshots
 
-# 🖼️ Notebook Screenshots
+### 1. Data Preprocessing
 
-The following screenshots were generated from the completed `week3.ipynb` and are included in the `screenshots/` folder.
+[View full-size screenshot](screenshots/01_preprocessing.png)
 
-## 1. Dataset Overview
+![Data Preprocessing](screenshots/01_preprocessing.png)
 
-![Dataset Overview](screenshots/Dataset_Overview.png)
+### 2. Data Ready for Feature Engineering
 
-## 2. Data Preparation
+[View full-size screenshot](screenshots/02_data_ready.png)
 
-![Data Preparation](screenshots/Data_Preparation.png)
+![Data Ready for Feature Engineering](screenshots/02_data_ready.png)
 
-## 3. Data Preprocessing
+### 3. Engineered Features
 
-![Data Preprocessing](screenshots/Data_Preprocessing.png)
+[View full-size screenshot](screenshots/03_engineered_features.png)
 
-## 4. Feature Engineering – Part 1
+![Engineered Features](screenshots/03_engineered_features.png)
 
-![Feature Engineering Part 1](screenshots/Feature_Engineering_Part_1.png)
+### 4. Feature Evaluation
 
-## 5. Feature Engineering – Part 2
+[View full-size screenshot](screenshots/04_feature_evaluation.png)
 
-![Feature Engineering Part 2](screenshots/Feature_Engineering_Part_2.png)
+![Feature Evaluation](screenshots/04_feature_evaluation.png)
 
-## 6. Feature Evaluation
+### 5. Correlation Analysis
 
-![Feature Evaluation](screenshots/Feature_Evaluation.png)
+[View full-size screenshot](screenshots/05_correlation.png)
 
-## 7. Validation
+![Correlation Analysis](screenshots/05_correlation.png)
 
-![Validation](screenshots/Validation.png)
+### 6. Final Verification
 
-## 8. Results – Final Dataset
+[View full-size screenshot](screenshots/06_final_verification.png)
 
-![Results - Final Dataset](screenshots/Results_-_Final_Dataset.png)
+![Final Verification](screenshots/06_final_verification.png)
 
 ---
 
