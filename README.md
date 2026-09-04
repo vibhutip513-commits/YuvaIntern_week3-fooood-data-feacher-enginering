@@ -89,10 +89,11 @@ protein_energy_pct
 carb_energy_pct
 fat_energy_pct
 macronutrient_balance
-
+```
 ---
 
-## 🧹 Data Preparation
+
+## 🧹 Data Preprocessing
 
 Before feature engineering, the notebook performed:
 
