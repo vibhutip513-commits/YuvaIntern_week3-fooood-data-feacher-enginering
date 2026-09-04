@@ -191,6 +191,21 @@ food_processing_feature_engineered.csv
 ```
 
 ---
+![Dataset Overview](screenshots/01_dataset_overview.png)
+
+![Data Preprocessing](screenshots/02_data_preprocessing.png)
+
+![Data Preparation](screenshots/03_data_preparation.png)
+
+![Feature Engineering Part 1](screenshots/04_feature_engineering_part1.png)
+
+![Feature Engineering Part 2](screenshots/05_feature_engineering_part2.png)
+
+![Feature Evaluation](screenshots/06_feature_evaluation.png)
+
+![Validation](screenshots/07_validation.png)
+
+![Final Results](screenshots/08_final_results.png)
 ## Notebook Screenshots
 
 ### 1. Dataset Overview
