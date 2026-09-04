@@ -304,7 +304,7 @@ Contains the complete data preparation, feature engineering, evaluation, validat
 Contains the final feature-engineered dataset with 9,771 rows and 25 columns.
 
 ### Internship Report
-`Week_3_Food_Processing_Feature_Engineering_Report_YuvaIntern_Professional.docx`
+`YuvaIntern_Week3_Report.docx`
 
 Contains the detailed Week 3 report with methodology, feature explanations, evaluation, and notebook screenshots.
 
