@@ -191,54 +191,31 @@ food_processing_feature_engineered.csv
 ```
 
 ---
-![Dataset Overview](screenshots/01_dataset_overview.png)
-
-![Data Preprocessing](screenshots/02_data_preprocessing.png)
-
-![Data Preparation](screenshots/03_data_preparation.png)
-
-![Feature Engineering Part 1](screenshots/04_feature_engineering_part1.png)
-
-![Feature Engineering Part 2](screenshots/05_feature_engineering_part2.png)
-
-![Feature Evaluation](screenshots/06_feature_evaluation.png)
-
-![Validation](screenshots/07_validation.png)
-
-![Final Results](screenshots/08_final_results.png)
 ## Notebook Screenshots
 
 ### 1. Dataset Overview
-
-<img src="https://raw.githubusercontent.com/vibhutip513-commits/YuvaIntern_week3-foood-data-feacher-engineering/main/screenshots/01_dataset_overview.png" alt="Dataset Overview" width="900">
+![Dataset Overview](screenshots/01_dataset_overview.png)
 
 ### 2. Data Preprocessing
-
-<img src="https://raw.githubusercontent.com/vibhutip513-commits/YuvaIntern_week3-foood-data-feacher-engineering/main/screenshots/02_data_preprocessing.png" alt="Data Preprocessing" width="900">
+![Data Preprocessing](screenshots/02_data_preprocessing.png)
 
 ### 3. Data Preparation
-
-<img src="https://raw.githubusercontent.com/vibhutip513-commits/YuvaIntern_week3-foood-data-feacher-engineering/main/screenshots/03_data_preparation.png" alt="Data Preparation" width="900">
+![Data Preparation](screenshots/03_data_preparation.png)
 
 ### 4. Feature Engineering – Part 1
-
-<img src="https://raw.githubusercontent.com/vibhutip513-commits/YuvaIntern_week3-foood-data-feacher-engineering/main/screenshots/04_feature_engineering_part1.png" alt="Feature Engineering Part 1" width="900">
+![Feature Engineering Part 1](screenshots/04_feature_engineering_part1.png)
 
 ### 5. Feature Engineering – Part 2
-
-<img src="https://raw.githubusercontent.com/vibhutip513-commits/YuvaIntern_week3-foood-data-feacher-engineering/main/screenshots/05_feature_engineering_part2.png" alt="Feature Engineering Part 2" width="900">
+![Feature Engineering Part 2](screenshots/05_feature_engineering_part2.png)
 
 ### 6. Feature Evaluation
-
-<img src="https://raw.githubusercontent.com/vibhutip513-commits/YuvaIntern_week3-foood-data-feacher-engineering/main/screenshots/06_feature_evaluation.png" alt="Feature Evaluation" width="900">
+![Feature Evaluation](screenshots/06_feature_evaluation.png)
 
 ### 7. Validation
-
-<img src="https://raw.githubusercontent.com/vibhutip513-commits/YuvaIntern_week3-foood-data-feacher-engineering/main/screenshots/07_validation.png" alt="Validation" width="900">
+![Validation](screenshots/07_validation.png)
 
 ### 8. Final Results
-
-<img src="https://raw.githubusercontent.com/vibhutip513-commits/YuvaIntern_week3-foood-data-feacher-engineering/main/screenshots/08_final_results.png" alt="Final Results" width="900">
+![Final Results](screenshots/08_final_results.png)
 
 ---
 
