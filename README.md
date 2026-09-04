@@ -45,13 +45,50 @@ The project uses a food nutrition dataset containing product information, proces
 - **Rows:** 9,804
 - **Columns:** 20
 
-### Final Feature-Engineered Dataset
+## 📦 Final Dataset
+
+The final feature-engineered dataset contains:
 
 - **Rows:** 9,771
 - **Columns:** 25
 - **Missing values:** 0
 - **Duplicate rows:** 0
 - **Engineered features:** 8
+
+The final dataset was created after data cleaning, duplicate removal, IQR-based outlier treatment, and feature engineering.
+
+---
+
+## 🔎 Dataset Preview
+
+The final dataset contains the following major nutrition and engineered features:
+
+```text
+brands
+countries
+quantity
+categories
+labels
+nutriscore_grade
+ecoscore_grade
+nova_group
+energy-kcal_100g
+fat_100g
+saturated-fat_100g
+carbohydrates_100g
+sugars_100g
+fiber_100g
+proteins_100g
+salt_100g
+sodium_100g
+total_macronutrients
+sugar_carb_ratio
+saturated_fat_ratio
+fiber_carb_ratio
+protein_energy_pct
+carb_energy_pct
+fat_energy_pct
+macronutrient_balance
 
 ---
 
@@ -174,50 +211,15 @@ The engineered features were evaluated using:
 
 ## ✅ Validation
 
-## 📦 Final Dataset
-
-The final feature-engineered dataset contains:
-
-- **Rows:** 9,771
-- **Columns:** 25
-- **Missing values:** 0
-- **Duplicate rows:** 0
-- **Engineered features:** 8
-
-The final dataset was created after data cleaning, duplicate removal, IQR-based outlier treatment, and feature engineering.
-
----
-
-## 🔎 Dataset Preview
-
-The final dataset contains the following major nutrition and engineered features:
+Final validation confirmed:
 
 ```text
-brands
-countries
-quantity
-categories
-labels
-nutriscore_grade
-ecoscore_grade
-nova_group
-energy-kcal_100g
-fat_100g
-saturated-fat_100g
-carbohydrates_100g
-sugars_100g
-fiber_100g
-proteins_100g
-salt_100g
-sodium_100g
-total_macronutrients
-sugar_carb_ratio
-saturated_fat_ratio
-fiber_carb_ratio
-protein_energy_pct
-carb_energy_pct
-fat_energy_pct
-macronutrient_balance
+Rows: 9771
+Columns: 25
+Missing values: 0
+Duplicate rows: 0
+Infinite values in engineered features: 0
+```
 
 The final feature-engineered dataset was successfully exported as:
 
