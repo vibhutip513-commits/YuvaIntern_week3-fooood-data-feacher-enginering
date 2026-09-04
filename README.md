@@ -279,14 +279,14 @@ YuvaIntern_week3-feature-engineering/
 ├── README.md
 │
 └── screenshots/
-    ├── Dataset_Overview.png
-    ├── Data_Preparation.png
-    ├── Data_Preprocessing.png
-    ├── Feature_Engineering_Part_1.png
-    ├── Feature_Engineering_Part_2.png
-    ├── Feature_Evaluation.png
-    ├── Validation.png
-    └── Results_-_Final_Dataset.png
+    ├── 01_dataset_overview.png
+    ├── 02_data_preprocessing.png
+    ├── 03_data_preparation.png
+    ├── 04_feature_engineering_part1.png
+    ├── 05_feature_engineering_part2.png
+    ├── 06_feature_evaluation.png
+    ├── 07_validation.png
+    └── 08_final_results.png
 ```
 
 ---
